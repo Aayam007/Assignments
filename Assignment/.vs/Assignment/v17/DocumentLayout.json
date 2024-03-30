@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bishow Shrestha\\Desktop\\Assignments\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84EFEC4E-52C5-4DB9-8B15-31A2DA7A4C80}|Assignment.csproj|c:\\users\\bishow shrestha\\desktop\\assignments\\assignment\\menu\\programlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EFEC4E-52C5-4DB9-8B15-31A2DA7A4C80}|Assignment.csproj|solutionrelative:menu\\programlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EFEC4E-52C5-4DB9-8B15-31A2DA7A4C80}|Assignment.csproj|c:\\users\\bishow shrestha\\desktop\\assignments\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EFEC4E-52C5-4DB9-8B15-31A2DA7A4C80}|Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EFEC4E-52C5-4DB9-8B15-31A2DA7A4C80}|Assignment.csproj|c:\\users\\bishow shrestha\\desktop\\assignments\\assignment\\services\\irolecrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EFEC4E-52C5-4DB9-8B15-31A2DA7A4C80}|Assignment.csproj|solutionrelative:services\\irolecrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EFEC4E-52C5-4DB9-8B15-31A2DA7A4C80}|Assignment.csproj|c:\\users\\bishow shrestha\\desktop\\assignments\\assignment\\services\\rolecrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EFEC4E-52C5-4DB9-8B15-31A2DA7A4C80}|Assignment.csproj|solutionrelative:services\\rolecrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EFEC4E-52C5-4DB9-8B15-31A2DA7A4C80}|Assignment.csproj|c:\\users\\bishow shrestha\\desktop\\assignments\\assignment\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EFEC4E-52C5-4DB9-8B15-31A2DA7A4C80}|Assignment.csproj|solutionrelative:dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Bishow Shrestha\\Desktop\\Assignments\\Assignment\\Menu\\ProgramLogic.cs",
+              "RelativeDocumentMoniker": "Menu\\ProgramLogic.cs",
+              "ToolTip": "C:\\Users\\Bishow Shrestha\\Desktop\\Assignments\\Assignment\\Menu\\ProgramLogic.cs",
+              "RelativeToolTip": "Menu\\ProgramLogic.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAYwGsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T15:04:21.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bishow Shrestha\\Desktop\\Assignments\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bishow Shrestha\\Desktop\\Assignments\\Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:50:09.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRoleCrudService.cs",
+              "DocumentMoniker": "C:\\Users\\Bishow Shrestha\\Desktop\\Assignments\\Assignment\\Services\\IRoleCrudService.cs",
+              "RelativeDocumentMoniker": "Services\\IRoleCrudService.cs",
+              "ToolTip": "C:\\Users\\Bishow Shrestha\\Desktop\\Assignments\\Assignment\\Services\\IRoleCrudService.cs",
+              "RelativeToolTip": "Services\\IRoleCrudService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:44:27.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleCrudService.cs",
+              "DocumentMoniker": "C:\\Users\\Bishow Shrestha\\Desktop\\Assignments\\Assignment\\Services\\RoleCrudService.cs",
+              "RelativeDocumentMoniker": "Services\\RoleCrudService.cs",
+              "ToolTip": "C:\\Users\\Bishow Shrestha\\Desktop\\Assignments\\Assignment\\Services\\RoleCrudService.cs",
+              "RelativeToolTip": "Services\\RoleCrudService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:40:14.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bishow Shrestha\\Desktop\\Assignments\\Assignment\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Bishow Shrestha\\Desktop\\Assignments\\Assignment\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:30:54.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
