@@ -6,6 +6,8 @@ Project Setup instruction
 3.	Update database using this command
 dotnet ef database update
 4.	Build application and run.
+5.	Username: admin, Password: admin123
+*Note: I have just written sample code all list you mention.
 
 
 
