@@ -316,7 +316,7 @@ namespace Assignment
             }
         }
         #endregion
-        #region //Supprotive Function
+        #region Supprotive Function
         static async Task AddPerformanceReviewForEmployee(IPerformanceReviewCrudService performanceReviewService, IEmployeeService employeeService)
         {
             Console.WriteLine("Add Performance Review for Employee");
@@ -490,6 +490,32 @@ namespace Assignment
                 Console.WriteLine($"Employee Id: {employee.Id}, Name: {employee.Name}, Department: {employee.Department.DepartmentName}, Role : {employee.EmployeeRoles.OrderBy(er => er.UpdatedAt)?.FirstOrDefault()?.Role.Name}");
             }
         }
+        static string ReadPassword()
+        {
+            string password = "";
+            ConsoleKeyInfo key;
+
+            do
+            {
+                key = Console.ReadKey(true);
+
+                if (key.Key != ConsoleKey.Backspace && key.Key != ConsoleKey.Enter)
+                {
+                    password += key.KeyChar;
+                    Console.Write("*");
+                }
+                else if (key.Key == ConsoleKey.Backspace && password.Length > 0)
+                {
+                    password = password.Substring(0, (password.Length - 1));
+                    Console.Write("\b \b");
+                }
+            }
+            while (key.Key != ConsoleKey.Enter);
+
+            Console.WriteLine();
+            return password;
+        }
+
         #endregion
         #region Seeding of Role, Department and Employees
         static async Task SeedRolesAsync(IRoleCrudService roleService)
@@ -541,31 +567,5 @@ namespace Assignment
         }
 
         #endregion
-
-        static string ReadPassword()
-        {
-            string password = "";
-            ConsoleKeyInfo key;
-
-            do
-            {
-                key = Console.ReadKey(true);
-
-                if (key.Key != ConsoleKey.Backspace && key.Key != ConsoleKey.Enter)
-                {
-                    password += key.KeyChar;
-                    Console.Write("*");
-                }
-                else if (key.Key == ConsoleKey.Backspace && password.Length > 0)
-                {
-                    password = password.Substring(0, (password.Length - 1));
-                    Console.Write("\b \b");
-                }
-            }
-            while (key.Key != ConsoleKey.Enter);
-
-            Console.WriteLine();
-            return password;
-        }
     }
 }
